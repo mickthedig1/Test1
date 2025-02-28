@@ -1,10 +1,10 @@
 .header{
 	background: url('../images/header.png');
 	background-repeat: no-repeat;
-	background-position: center center;
+	background-position: left;
 	background-size: cover;
 	background-attachment: fixed;
 	height: 100vh;
-	color: #000;
+	color: #FFF;
 	text-transform: uppercase;
 }
